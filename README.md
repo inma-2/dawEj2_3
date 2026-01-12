@@ -29,8 +29,3 @@ git commit -a -m "Añadido modulo DWEC a index"
 
 * **Alumna de IES Salvador Gadea** - *Trabajo Inicial*
 
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
